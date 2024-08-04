@@ -8,6 +8,8 @@
     height: auto;
     z-index: -1000;
     object-fit: cover;
+    transform: rotate(-90deg);
+    transform-origin: center center;
 }
 
 .image-10-icon {
