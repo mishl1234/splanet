@@ -1,17 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
 .video-background {
     position: fixed;
-    right: 0;
-    bottom: 0;
+    top: 50%;
+    left: 50%;
     min-width: 100%;
     min-height: 100%;
     width: auto;
     height: auto;
     z-index: -1000;
+    transform: translate(-50%, -50%) rotate(-90deg) scale(1.5);
     object-fit: cover;
-    transform: rotate(-90deg);
-    transform-origin: center center;
 }
 
+/* Rest of the CSS remains the same */
 .image-10-icon {
     position: absolute;
     top: 0;
