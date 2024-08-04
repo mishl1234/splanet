@@ -1,0 +1,108 @@
+.image-10-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1173px;
+  object-fit: cover;
+}
+.contact1 {
+  position: absolute;
+  top: 34px;
+  left: 610px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 700px;
+  height: 140px;
+}
+.frame-child1,
+.vector-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 11.94%;
+  width: 8.96%;
+  top: 20%;
+  right: 45.52%;
+  bottom: 68.06%;
+  left: 45.52%;
+  max-height: 100%;
+}
+.frame-child1 {
+  top: 623px;
+  left: 960px;
+  height: 354px;
+  object-fit: contain;
+}
+.artists1,
+.home1,
+.music1 {
+  position: absolute;
+  top: 60px;
+  left: 1681px;
+  display: inline-block;
+  width: 166px;
+  height: 45px;
+  text-shadow: 1px 0 0#fff, 0 1px 0#fff, -1px 0 0#fff, 0-1px 0#fff;
+  cursor: pointer;
+}
+.artists1,
+.music1 {
+  top: 90px;
+  left: 1701px;
+}
+.music1 {
+  top: 120px;
+  left: 1681px;
+}
+.frame-child2,
+.frame-child3,
+.frame-child4 {
+  position: absolute;
+  top: 78px;
+  left: 1575px;
+  max-height: 100%;
+  width: 126px;
+  cursor: pointer;
+}
+.frame-child3,
+.frame-child4 {
+  top: 109px;
+}
+.frame-child4 {
+  top: 139px;
+}
+.intergalactic-terminalunivers {
+  position: absolute;
+  top: 1026px;
+  left: 745px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  display: inline-block;
+  width: 462px;
+  height: 20px;
+}
+.frame-root,
+.image-10-parent {
+  width: 1920px;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+}
+.image-10-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-root {
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}

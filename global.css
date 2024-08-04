@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica: Helvetica;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-109xl: 128px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: rgba(0, 0, 0, 0.1);
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+}

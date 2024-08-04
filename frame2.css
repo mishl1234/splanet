@@ -1,0 +1,193 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #eb7d0a;
+  width: 1920px;
+  height: 1080px;
+}
+.artists,
+.contact,
+.home,
+.music {
+  position: absolute;
+  top: 48px;
+  left: 658px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 559px;
+  height: 140px;
+}
+.artists,
+.contact,
+.home {
+  top: 115px;
+  left: 1639px;
+  font-size: var(--font-size-13xl);
+  width: 166px;
+  height: 45px;
+  cursor: pointer;
+}
+.artists,
+.contact {
+  top: 145px;
+  left: 1659px;
+}
+.contact {
+  top: 175px;
+  left: 1666px;
+}
+.arrow-icon,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 133px;
+  left: 1533px;
+  max-height: 100%;
+  width: 126px;
+  cursor: pointer;
+}
+.arrow-icon,
+.frame-inner {
+  top: 164px;
+}
+.arrow-icon {
+  top: 194px;
+}
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 269px;
+  left: 172px;
+  width: 325px;
+  height: 325px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 632px;
+  left: 367px;
+  width: 326px;
+  height: 317px;
+}
+.image-4-icon,
+.image-5-icon,
+.image-6-icon {
+  position: absolute;
+  top: 236px;
+  left: 553px;
+  width: 279px;
+  height: 279px;
+  object-fit: cover;
+}
+.image-5-icon,
+.image-6-icon {
+  top: 540px;
+  left: 717px;
+  width: 298px;
+  height: 282px;
+}
+.image-6-icon {
+  top: 220px;
+  left: 938px;
+  width: 271px;
+  height: 266px;
+}
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 638px;
+  left: 1056px;
+  width: 306px;
+  height: 306px;
+  object-fit: cover;
+}
+.image-8-icon,
+.image-9-icon {
+  top: 353px;
+  left: 1244px;
+  width: 236px;
+  height: 241px;
+}
+.image-9-icon {
+  top: 609px;
+  left: 1436px;
+  width: 286px;
+  height: 286px;
+}
+.solar-wind-swing,
+.wormhole-wave {
+  position: absolute;
+  top: 236px;
+  left: 172px;
+  font-weight: 300;
+}
+.wormhole-wave {
+  top: 205px;
+  left: 553px;
+}
+.asteroid-ambient,
+.comet-classical {
+  position: absolute;
+  top: 195px;
+  left: 936px;
+  font-weight: 300;
+}
+.asteroid-ambient {
+  top: 329px;
+  left: 1244px;
+}
+.meteor-metal,
+.pulsar-pop,
+.supernova-sonata {
+  position: absolute;
+  top: 585px;
+  left: 1644px;
+  font-weight: 300;
+}
+.meteor-metal,
+.supernova-sonata {
+  top: 615px;
+  left: 1056px;
+}
+.meteor-metal {
+  top: 519px;
+  left: 717px;
+}
+.planetary-psychedelia,
+.these-intergalactic-music {
+  position: absolute;
+  top: 610px;
+  left: 367px;
+  font-weight: 300;
+}
+.these-intergalactic-music {
+  top: 81px;
+  left: 22px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 626px;
+}
+.frame-parent,
+.rectangle-parent {
+  width: 1920px;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-parent {
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-helvetica);
+}

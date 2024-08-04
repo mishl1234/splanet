@@ -1,0 +1,246 @@
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.contact3,
+.home4,
+.music4,
+.our-artists {
+  position: absolute;
+  top: 82px;
+  left: 386px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1147px;
+  height: 273px;
+}
+.contact3,
+.home4,
+.music4 {
+  top: 115px;
+  left: 1639px;
+  font-size: var(--font-size-13xl);
+  width: 166px;
+  height: 45px;
+  cursor: pointer;
+}
+.contact3,
+.music4 {
+  top: 145px;
+  left: 1642px;
+}
+.contact3 {
+  top: 175px;
+  left: 1666px;
+}
+.dbcddbfc137fae8039362b8e2b55cb-icon {
+  position: absolute;
+  top: 566px;
+  left: 317px;
+  width: 156px;
+  height: 176px;
+  object-fit: cover;
+}
+.cc40e43011e976cd80fa88bca715d8-icon,
+.e9a9906303267e7a0d7ea804b32ca8-icon {
+  position: absolute;
+  top: 271px;
+  left: 721px;
+  width: 214px;
+  height: 215px;
+  object-fit: cover;
+}
+.e9a9906303267e7a0d7ea804b32ca8-icon {
+  left: 1050px;
+  width: 187px;
+  height: 186px;
+}
+.aa1874d0305156b83df2f07c5e0db3-icon {
+  position: absolute;
+  top: 457px;
+  left: 1348px;
+  width: 156px;
+  height: 157px;
+  object-fit: cover;
+}
+.e3764210f749f86fd6fbbd805c7a2c-icon {
+  position: absolute;
+  top: 773px;
+  left: 823px;
+  width: 224px;
+  height: 269px;
+  object-fit: cover;
+}
+.e328af3e375bef8b78efe13e38d5ba-icon {
+  position: absolute;
+  top: 678px;
+  left: 580px;
+  width: 191px;
+  height: 191px;
+  object-fit: cover;
+}
+.d3f5eeafc44db59575174b604fd-re-icon {
+  position: absolute;
+  top: 541px;
+  left: 1015px;
+  width: 157px;
+  height: 157px;
+  object-fit: cover;
+}
+.b6e0f4f78abbbbd4ce85af0665c-re-icon {
+  position: absolute;
+  top: 390px;
+  left: 529px;
+  width: 151px;
+  height: 151px;
+  object-fit: cover;
+}
+.b1edfb82e5028ba394b9ed754f63c8-icon {
+  position: absolute;
+  top: 773px;
+  left: 1348px;
+  width: 156px;
+  height: 164px;
+  object-fit: cover;
+}
+.cb60581fddae73e0256bd7cdde0b97-icon {
+  position: absolute;
+  top: 825px;
+  left: 1116px;
+  width: 163px;
+  height: 163px;
+  object-fit: cover;
+}
+.e4e1a890efc2086f0478a7803a8763-icon {
+  position: absolute;
+  top: 616px;
+  left: 1180px;
+  width: 196px;
+  height: 190px;
+  object-fit: cover;
+}
+.eecf3e1065a576bf20dd29c353455c-icon {
+  position: absolute;
+  top: 501px;
+  left: 771px;
+  width: 210px;
+  height: 209px;
+  object-fit: cover;
+}
+.nebula-stardust,
+.nova-luminara {
+  position: absolute;
+  top: 361px;
+  left: 550px;
+  font-weight: 300;
+}
+.nebula-stardust {
+  top: 253px;
+  left: 767px;
+}
+.astro-palette,
+.cosmos-brushstroke,
+.galaxia-hue {
+  position: absolute;
+  top: 256px;
+  left: 1074px;
+  font-weight: 300;
+}
+.astro-palette,
+.galaxia-hue {
+  top: 477px;
+  left: 830px;
+}
+.galaxia-hue {
+  top: 522px;
+  left: 1051px;
+}
+.pulsar-prism,
+.solaris-chromatica {
+  position: absolute;
+  top: 611px;
+  left: 1211px;
+  font-weight: 300;
+}
+.pulsar-prism {
+  top: 453px;
+  left: 1381px;
+}
+.celestial-spectrum,
+.orions-canvas {
+  position: absolute;
+  top: 769px;
+  left: 1365px;
+  font-weight: 300;
+}
+.celestial-spectrum {
+  top: 806px;
+  left: 1130px;
+}
+.lunar-brushwork,
+.vortex-pigmentia {
+  position: absolute;
+  top: 792px;
+  left: 876px;
+  font-weight: 300;
+}
+.lunar-brushwork {
+  top: 660px;
+  left: 616px;
+}
+.quasar-zephyr,
+.these-intergalactic-star {
+  position: absolute;
+  top: 541px;
+  left: 341px;
+  font-weight: 300;
+}
+.these-intergalactic-star {
+  top: 219px;
+  left: 44px;
+  text-align: left;
+  display: inline-block;
+  width: 489px;
+}
+.frame-child10,
+.frame-child11,
+.frame-child12 {
+  position: absolute;
+  top: 133px;
+  left: 1533px;
+  max-height: 100%;
+  width: 126px;
+  cursor: pointer;
+}
+.frame-child11,
+.frame-child12 {
+  top: 164px;
+}
+.frame-child12 {
+  top: 194px;
+}
+.frame-wrapper,
+.vector-parent {
+  width: 1920px;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+}
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-wrapper {
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
