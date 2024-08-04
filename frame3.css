@@ -84,13 +84,6 @@
   width: 462px;
   height: 20px;
 }
-.frame-root,
-.image-10-parent {
-  width: 1920px;
-  background-color: var(--color-white);
-  height: 1080px;
-  overflow: hidden;
-}
 .image-10-parent {
   position: absolute;
   top: 0;
